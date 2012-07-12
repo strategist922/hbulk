@@ -1,0 +1,10 @@
+Akey	Avalue
+Bkey	Bvalue
+Ckey	Cvalue
+Dkey	Dvalue
+Ekey	Evalue
+Fkey	Fvalue
+Gkey	Gvalue
+Hkey	Hvalue
+Ikey	Ivalue
+Jkey	Jvalue
