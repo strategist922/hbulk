@@ -3,3 +3,4 @@ target/
 .idea_modules/
 project/target/
 .DS_Store
+lib/scala-hbulk_2.9.1-0.1.jar
